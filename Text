@@ -1,0 +1,63 @@
+L.J. Institute of Engineering & Technology Semester: VI (2023)
+Analog and Digital Communication (3163206) Page 1
+Subject Name: Analog and Digital Communication
+Subject Code:3163206
+ Faculty: Shweta Shah
+Sr. 
+No
+CHAPTER NO –1 Introduction to communication systems Marks
+TOPIC:1 Communication System 
+SHORT QUESTIONS
+1. Define Communication. [LJIET]
+Ans: Communication is a data transmitting technique in a format that utilizes 
+continuous signals to transmit data including voice, image, video, electrons etc.
+01
+2. What is meant by analog communication syste[LJIET]
+Ans: A communication format in which information is transmitted by modulating a 
+continuous signal, such as a sound wave. Current TV and radio signals are analog, as 
+are many telephone lines.
+01
+3. What is meant by digital communication system?[LJIET]
+Ans: Digital communication is a mode of communication where the information or the 
+thought is encoded digitally as discreet signals and electronically transferred to the 
+recipients.
+01
+4. Define modulation (May’2017)[LJIET]
+Ans: In electronics and telecommunications, modulation is the process of varying one 
+or more properties of a periodic waveform, called the carrier signal, with a modulating 
+signal that typically contains information to be transmitted.
+01
+5. What is the need of modulation?(May’2017)[LJIET]
+Ans: Modulation allows us to send a signal over a bandpass frequency range. If every 
+signal gets its own frequency range, then we can transmit multiple signals 
+simultaneously over a single channel, all using different frequency ranges. Another 
+reason to modulate a signal is to allow the use of a smaller antenna.
+01
+DESCRIPTIVE QUESTIONS
+1. Define elements of communication system and explain in brief. (May’2016)[LJIET]
+Explain Elements of communication system with diagram.(May’2018)[LJIET]
+07
+03
+2. Describe classification of communication System. [LJIET] 07
+3. Explain signal representation and analysis in details. (May’2016)[LJIET] 07
+4. What do you mean by Modulation? List types of Modulation. Explain importance of 
+modulation in communication with suitable examples. [LJIET]
+07
+5. Explain general communication system with block diagram.(May’2019) (Dec’2019)
+[LJIET]
+03
+6. Explain importance of modulation in communication with suitable example. [LJIET] 07
+7. Explain Need of Modulation in details. [LJIET]
+Why modulation is required?(May’2018)[LJIET]
+Explain the need of modulation in communication systems.(Jun’2022)[LJIET]
+07/
+04/03
+8. What are the advantages and disadvantages of Analog communications [LJIET] 07
+9. State application of analog communication [LJIET] 04
+10. Write a short note on: technologies in communication System [LJIET] 07
+11. List the standard continuous time and discrete time signal and explain them with neat 
+sketches.[LJIET]
+07
+12. Explain block diagram of analog communication system.(May’2017)(May’18)[LJIET]
+Explain block diagram of analog communication system.(Jun’2022)[LJIET]
+03
